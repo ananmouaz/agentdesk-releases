@@ -2,5 +2,17 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>AgentDesk</title>
+    <item>
+      <title>AgentDesk 0.6.0</title>
+      <pubDate>Thu, 08 Oct 2026 19:54:01 +0000</pubDate>
+      <sparkle:version>128</sparkle:version>
+      <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>Features</h3>
+<li>download AgentDesk as a signed app and get updates automatically</li>
+      ]]></description>
+      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.6.0/AgentDesk-0.6.0.dmg" sparkle:edSignature="5VF9owUjwvq5/kL4qnf1HLvGPmg2kVYvDLfKtxfvqOac6qWWYKLanm6aGvxMNUUXuAa97g4HybTwwAAICdawAA==" length="644722602" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
