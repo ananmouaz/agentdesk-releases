@@ -4,7 +4,7 @@
     <title>AgentDesk</title>
     <item>
       <title>AgentDesk 0.8.3</title>
-      <pubDate>Fri, 09 Oct 2026 18:10:58 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 17:53:58 +0000</pubDate>
       <sparkle:version>150</sparkle:version>
       <sparkle:shortVersionString>0.8.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
@@ -12,7 +12,7 @@
 <h3>Bug Fixes</h3>
 <li>downloads and updates take less space</li>
       ]]></description>
-      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.8.3/AgentDesk-0.8.3.dmg" sparkle:edSignature="QAXmEyI1fF09Y5YBVIMO+uVnsvdBHcJAvlRe8wybEMLzGazANL740LQ9DnrV1dImewrNqj9cCZovMdn9jqLYDQ==" length="617043673" type="application/octet-stream"/>
+      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.8.3/AgentDesk-0.8.3-x86_64.dmg" sparkle:edSignature="xHhnEHznxOU6/o1f2jvQ83ReeTywMGzHx+oKfjJheBrm7GOhQ2yaYUOfirmr0oRro5zTY4TbQ+9lLB+DVUFnBA==" length="328172978" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
