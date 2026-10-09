@@ -3,17 +3,16 @@
   <channel>
     <title>AgentDesk</title>
     <item>
-      <title>AgentDesk 0.7.1</title>
-      <pubDate>Fri, 09 Oct 2026 10:18:47 +0000</pubDate>
-      <sparkle:version>135</sparkle:version>
-      <sparkle:shortVersionString>0.7.1</sparkle:shortVersionString>
+      <title>AgentDesk 0.7.2</title>
+      <pubDate>Fri, 09 Oct 2026 10:49:14 +0000</pubDate>
+      <sparkle:version>137</sparkle:version>
+      <sparkle:shortVersionString>0.7.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
 <h3>Bug Fixes</h3>
-<li>a chat that is ready to merge says so in plain words</li>
-<li>say 'ready to merge' in plain words instead of 'State B'</li>
+<li>after an update, AgentDesk switches fully to the new version once your agents are idle</li>
       ]]></description>
-      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.7.1/AgentDesk-0.7.1.dmg" sparkle:edSignature="n3gFy4Qd17tuQ+TLKkUD0fra/TAAWcBr0o771Ut58w866zQEe9vhtQLC1MhtSPjaypTFohBIxG07LhubDupGCg==" length="645401671" type="application/octet-stream"/>
+      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.7.2/AgentDesk-0.7.2.dmg" sparkle:edSignature="B89rV7/TrVkIx/d6YFA3NV+qkLCybjrcu4VZLFNta3+0MtczUQVagmjP9qsR4Fk0zcfdLShtVW9A90qBUGRNAA==" length="645411474" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
