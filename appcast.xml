@@ -3,16 +3,17 @@
   <channel>
     <title>AgentDesk</title>
     <item>
-      <title>AgentDesk 0.6.0</title>
-      <pubDate>Thu, 08 Oct 2026 19:54:01 +0000</pubDate>
-      <sparkle:version>128</sparkle:version>
-      <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+      <title>AgentDesk 0.6.1</title>
+      <pubDate>Fri, 09 Oct 2026 08:14:55 +0000</pubDate>
+      <sparkle:version>130</sparkle:version>
+      <sparkle:shortVersionString>0.6.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<h3>Features</h3>
-<li>download AgentDesk as a signed app and get updates automatically</li>
+<h3>Bug Fixes</h3>
+<li>setup finds your Claude sign-in instead of checking forever</li>
+<li>setup sees your usual Claude sign-in instead of checking forever</li>
       ]]></description>
-      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.6.0/AgentDesk-0.6.0.dmg" sparkle:edSignature="5VF9owUjwvq5/kL4qnf1HLvGPmg2kVYvDLfKtxfvqOac6qWWYKLanm6aGvxMNUUXuAa97g4HybTwwAAICdawAA==" length="644722602" type="application/octet-stream"/>
+      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.6.1/AgentDesk-0.6.1.dmg" sparkle:edSignature="uOC/1DncOmtw5KVcuM6WNyhbRMOUoEXvwXKsGjDsxtahVV3SFdQXbjVk1TU8UcTaO2tba60fok28H3QwAvMKCA==" length="644721724" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
