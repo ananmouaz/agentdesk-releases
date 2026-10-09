@@ -3,16 +3,16 @@
   <channel>
     <title>AgentDesk</title>
     <item>
-      <title>AgentDesk 0.7.2</title>
-      <pubDate>Fri, 09 Oct 2026 10:49:14 +0000</pubDate>
-      <sparkle:version>137</sparkle:version>
-      <sparkle:shortVersionString>0.7.2</sparkle:shortVersionString>
+      <title>AgentDesk 0.7.3</title>
+      <pubDate>Fri, 09 Oct 2026 11:25:31 +0000</pubDate>
+      <sparkle:version>139</sparkle:version>
+      <sparkle:shortVersionString>0.7.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
 <h3>Bug Fixes</h3>
-<li>after an update, AgentDesk switches fully to the new version once your agents are idle</li>
+<li>AgentDesk uses far less power while you are not using it</li>
       ]]></description>
-      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.7.2/AgentDesk-0.7.2.dmg" sparkle:edSignature="B89rV7/TrVkIx/d6YFA3NV+qkLCybjrcu4VZLFNta3+0MtczUQVagmjP9qsR4Fk0zcfdLShtVW9A90qBUGRNAA==" length="645411474" type="application/octet-stream"/>
+      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.7.3/AgentDesk-0.7.3.dmg" sparkle:edSignature="pMFi+k5TQVR/o3eLBR73Zl42c0hGLNdvM+qONORc24MIZZovaL0iUJ7S0852BAeLcgs57rp0BoXTP9GCrX+hCQ==" length="645376195" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
