@@ -3,16 +3,16 @@
   <channel>
     <title>AgentDesk</title>
     <item>
-      <title>AgentDesk 0.8.1</title>
-      <pubDate>Fri, 09 Oct 2026 16:22:26 +0000</pubDate>
-      <sparkle:version>146</sparkle:version>
-      <sparkle:shortVersionString>0.8.1</sparkle:shortVersionString>
+      <title>AgentDesk 0.8.2</title>
+      <pubDate>Fri, 09 Oct 2026 17:13:52 +0000</pubDate>
+      <sparkle:version>148</sparkle:version>
+      <sparkle:shortVersionString>0.8.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
 <h3>Bug Fixes</h3>
-<li>switching between chats and scrolling a chat are much faster</li>
+<li>updates finish at once, and working agents carry on after the restart</li>
       ]]></description>
-      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.8.1/AgentDesk-0.8.1.dmg" sparkle:edSignature="ywpisXnXJgIU+IxPZi7BvGrddzrYClERlr/L2IUcl39pG2z8CwJCdiPGrveW3zHJ1AC/+7fzGoEbdqQAlzxaAw==" length="645488296" type="application/octet-stream"/>
+      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.8.2/AgentDesk-0.8.2.dmg" sparkle:edSignature="7ub9w6t8ojaUMxkQjOL9TXlgq5QS7T6aSclEWJhsIKLjMymjFF8m6mflbhfJgM0kGyzY5vkMGJzNXn5CRK/JDQ==" length="645512549" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
