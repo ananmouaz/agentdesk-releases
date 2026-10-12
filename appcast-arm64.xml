@@ -3,16 +3,17 @@
   <channel>
     <title>AgentDesk</title>
     <item>
-      <title>AgentDesk 0.9.0</title>
-      <pubDate>Mon, 12 Oct 2026 09:36:59 +0000</pubDate>
-      <sparkle:version>154</sparkle:version>
-      <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+      <title>AgentDesk 0.9.1</title>
+      <pubDate>Mon, 12 Oct 2026 11:49:05 +0000</pubDate>
+      <sparkle:version>156</sparkle:version>
+      <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<h3>Features</h3>
-<li>preview documents beside your chat</li>
+<h3>Bug Fixes</h3>
+<li>a finished investigation stays in view until you read it</li>
+<li>finished investigations stay in view until you read them</li>
       ]]></description>
-      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.9.0/AgentDesk-0.9.0-arm64.dmg" sparkle:edSignature="q/bVWrSMjnRNRfGJEBc+owiexqj4tiKgVtNY8Xf61uX7QA+GmzEhaMVQ1OA21acCCCwymKxIfhX9+ensjTS8Cw==" length="307791056" type="application/octet-stream"/>
+      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.9.1/AgentDesk-0.9.1-arm64.dmg" sparkle:edSignature="QhbabGKw14atrAa2QaZQAta9TYRzSJtHgEoeq5CmLoyf2rHEWi5iMeZsXsQazhieT4AFFvhGFHAMGf3lpr53AA==" length="307791935" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
