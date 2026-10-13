@@ -3,16 +3,16 @@
   <channel>
     <title>AgentDesk</title>
     <item>
-      <title>AgentDesk 0.13.1</title>
-      <pubDate>Tue, 13 Oct 2026 13:31:07 +0000</pubDate>
-      <sparkle:version>175</sparkle:version>
-      <sparkle:shortVersionString>0.13.1</sparkle:shortVersionString>
+      <title>AgentDesk 0.14.0</title>
+      <pubDate>Tue, 13 Oct 2026 14:53:40 +0000</pubDate>
+      <sparkle:version>178</sparkle:version>
+      <sparkle:shortVersionString>0.14.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<h3>Bug Fixes</h3>
-<li>explain connection interruptions clearly</li>
+<h3>Features</h3>
+<li>projects on the canvas never cover each other, and Tidy up arranges them</li>
       ]]></description>
-      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.13.1/AgentDesk-0.13.1-x86_64.dmg" sparkle:edSignature="nKE2HHYfxN1RHg6JOs791yIAqjOug6rBQUdHPit/loFF6AEucbpJXiOhMQqiVem8hPZUXi5uu/w8BfgjDu6qDw==" length="372856144" type="application/octet-stream"/>
+      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.14.0/AgentDesk-x86_64.dmg" sparkle:edSignature="8fJ+l2yUkTpkfBPr2d/qWxyvsX3jPFlVo0hEoSJym0quLBDnfcVj7zTmURRIxKg9D9lRtIu4Z5HGHzDPvGNeDQ==" length="372858013" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
