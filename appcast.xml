@@ -3,16 +3,16 @@
   <channel>
     <title>AgentDesk</title>
     <item>
-      <title>AgentDesk 0.12.0</title>
-      <pubDate>Mon, 12 Oct 2026 20:40:59 +0000</pubDate>
-      <sparkle:version>164</sparkle:version>
-      <sparkle:shortVersionString>0.12.0</sparkle:shortVersionString>
+      <title>AgentDesk 0.12.2</title>
+      <pubDate>Tue, 13 Oct 2026 09:01:42 +0000</pubDate>
+      <sparkle:version>169</sparkle:version>
+      <sparkle:shortVersionString>0.12.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<h3>Features</h3>
-<li>a lit office building with smooth 3D characters and a calmer app frame</li>
+<h3>Bug Fixes</h3>
+<li>a chat no longer stays working after the agent is done, so your queued messages go out</li>
       ]]></description>
-      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.12.0/AgentDesk-0.12.0.dmg" sparkle:edSignature="esBn/qwfJi4WKEkwTeJXHY9JVZQmPFX0rh2shah7ky2Xrd2LcHasbpok7yQN+G/jw4AtkNWN/lZvzlmpvR6zDg==" length="621824241" type="application/octet-stream"/>
+      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.12.2/AgentDesk-0.12.2.dmg" sparkle:edSignature="8cPD4C0f16JmZrp5Y21vunhv8RsV82BUvlH8Sl1ZK0qi6v4NMwP74iB7pXT4Fu8EaLwql828gsGFJS3mE1C5Cw==" length="621826476" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
