@@ -3,16 +3,16 @@
   <channel>
     <title>AgentDesk</title>
     <item>
-      <title>AgentDesk 0.13.0</title>
-      <pubDate>Tue, 13 Oct 2026 12:46:52 +0000</pubDate>
-      <sparkle:version>173</sparkle:version>
-      <sparkle:shortVersionString>0.13.0</sparkle:shortVersionString>
+      <title>AgentDesk 0.13.1</title>
+      <pubDate>Tue, 13 Oct 2026 13:44:57 +0000</pubDate>
+      <sparkle:version>175</sparkle:version>
+      <sparkle:shortVersionString>0.13.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<h3>Features</h3>
-<li>bring Sculpted Studio to the office</li>
+<h3>Bug Fixes</h3>
+<li>explain connection interruptions clearly</li>
       ]]></description>
-      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.13.0/AgentDesk-0.13.0.dmg" sparkle:edSignature="Z9JzTXEp094F7nUx/5xK3fWTfvI9jUrb+2QMBmMs8hIpAJXo3+NUpWAH9g6u6gfv5eIczwP6S0Nnmb9vtq4LBA==" length="662408968" type="application/octet-stream"/>
+      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.13.1/AgentDesk-0.13.1.dmg" sparkle:edSignature="qI4q2OWdYlr+FZrvICdPv8b9z09uxzMqK0zyNlENZfOwmbu4tQzhUp6Qch1QAJCyEK7rwsP22OXbzQUXcLnTAA==" length="662358330" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
