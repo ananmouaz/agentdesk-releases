@@ -3,16 +3,17 @@
   <channel>
     <title>AgentDesk</title>
     <item>
-      <title>AgentDesk 0.14.0</title>
-      <pubDate>Tue, 13 Oct 2026 14:58:57 +0000</pubDate>
-      <sparkle:version>178</sparkle:version>
-      <sparkle:shortVersionString>0.14.0</sparkle:shortVersionString>
+      <title>AgentDesk 0.14.1</title>
+      <pubDate>Tue, 13 Oct 2026 17:44:07 +0000</pubDate>
+      <sparkle:version>181</sparkle:version>
+      <sparkle:shortVersionString>0.14.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<h3>Features</h3>
-<li>projects on the canvas never cover each other, and Tidy up arranges them</li>
+<h3>Bug Fixes</h3>
+<li>a faster chat with its progress beside the message box</li>
+<li>chats open faster and show what the agent is doing right above the message box</li>
       ]]></description>
-      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.14.0/AgentDesk.dmg" sparkle:edSignature="C5M0bo9ot9nch4WyhAyPxzRT3R7MLbH1CO1okXGt0XAzCkpTA35aznas+VFmKLsPT3sZtZww8d1u6wstM6OUBA==" length="662380293" type="application/octet-stream"/>
+      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.14.1/AgentDesk.dmg" sparkle:edSignature="HuJGeeT3ovQ0+E8UjCwy6uS4HW5fSycVSLttDlH25P8TxirDQIByjMYwiBM2B2V7z4zJBcNIM55fHtlaWBqcDg==" length="662390617" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
