@@ -3,18 +3,18 @@
   <channel>
     <title>AgentDesk</title>
     <item>
-      <title>AgentDesk 0.16.0</title>
-      <pubDate>Tue, 20 Oct 2026 15:10:04 +0000</pubDate>
-      <sparkle:version>186</sparkle:version>
-      <sparkle:shortVersionString>0.16.0</sparkle:shortVersionString>
+      <title>AgentDesk 0.17.0</title>
+      <pubDate>Tue, 20 Oct 2026 15:39:13 +0000</pubDate>
+      <sparkle:version>190</sparkle:version>
+      <sparkle:shortVersionString>0.17.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
 <h3>Features</h3>
-<li>sign in to Claude and Codex again from Settings</li>
+<li>agents learn from each merged task, and you can switch it off in Settings</li>
 <h3>Bug Fixes</h3>
-<li>the working line says what the agent does in its own color, without the moving bar</li>
+<li>the sidebar sits flush with the window, and double-clicking the top of the window zooms it</li>
       ]]></description>
-      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.16.0/AgentDesk.dmg" sparkle:edSignature="GtVEL2IS72BvouzsoNQ8V9nnzTW0RJ1/+M0soAJhS3KxBFsh3rmWt6itakfHR0AM+ZdX3bgz84jMJoVgERWlCA==" length="663083254" type="application/octet-stream"/>
+      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.17.0/AgentDesk.dmg" sparkle:edSignature="g3fmXjwqgdK+6rvsV55+MWM1OtZ4ym0bsDeuv6HzSFt7DOEoTnQ0+F3RhLlQgrlE92uBEQq5wiMJ9TXFvWugBw==" length="709267634" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
