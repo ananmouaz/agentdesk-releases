@@ -3,16 +3,20 @@
   <channel>
     <title>AgentDesk</title>
     <item>
-      <title>AgentDesk 0.17.1</title>
-      <pubDate>Tue, 20 Oct 2026 17:14:23 +0000</pubDate>
-      <sparkle:version>192</sparkle:version>
-      <sparkle:shortVersionString>0.17.1</sparkle:shortVersionString>
+      <title>AgentDesk 0.18.0</title>
+      <pubDate>Tue, 20 Oct 2026 17:42:20 +0000</pubDate>
+      <sparkle:version>196</sparkle:version>
+      <sparkle:shortVersionString>0.18.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
+<h3>Features</h3>
+<li>replies show as clear cards you can answer, rewrite and comment on</li>
 <h3>Bug Fixes</h3>
-<li>give the office a smaller, calmer look</li>
+<li>keep the queue moving after updates</li>
+<li>agents answer in clear tables, checklists and warnings instead of short terminal text</li>
+<li>agents answer with clear tables, checklists and warnings, not short plain text</li>
       ]]></description>
-      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.17.1/AgentDesk-arm64.dmg" sparkle:edSignature="zv+wJq/hbcSnPZxclAiqwgY7qjvK19dKJgUauCxAITsKgAL9oo5Z9vZasUqgHt+fGkW/5mN/6GiV5pVLpVtFBA==" length="375225345" type="application/octet-stream"/>
+      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.18.0/AgentDesk-arm64.dmg" sparkle:edSignature="TWREdIHAiISB9m/3P1SdbnuELJRKncH74NSr/Z76dxNjYsbXxBfvCoiPDkDGl0bcmZF3yjH43Oiv2lHqSDnXCA==" length="375458767" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
