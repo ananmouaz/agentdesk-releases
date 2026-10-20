@@ -3,20 +3,18 @@
   <channel>
     <title>AgentDesk</title>
     <item>
-      <title>AgentDesk 0.18.0</title>
-      <pubDate>Tue, 20 Oct 2026 17:49:09 +0000</pubDate>
-      <sparkle:version>196</sparkle:version>
-      <sparkle:shortVersionString>0.18.0</sparkle:shortVersionString>
+      <title>AgentDesk 0.19.0</title>
+      <pubDate>Tue, 20 Oct 2026 18:41:47 +0000</pubDate>
+      <sparkle:version>200</sparkle:version>
+      <sparkle:shortVersionString>0.19.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
 <h3>Features</h3>
-<li>replies show as clear cards you can answer, rewrite and comment on</li>
+<li>dictate messages with the microphone</li>
 <h3>Bug Fixes</h3>
-<li>keep the queue moving after updates</li>
-<li>agents answer in clear tables, checklists and warnings instead of short terminal text</li>
-<li>agents answer with clear tables, checklists and warnings, not short plain text</li>
+<li>reply buttons stay when you reach for them, and a failed rewrite says why</li>
       ]]></description>
-      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.18.0/AgentDesk.dmg" sparkle:edSignature="7jnXxv17orCu2S5kmxHgRKSJ8I3XqD/j8aK1JNhdorIhGSzYr1e1VV3afHcJhK6jBtcMN2OK4uYKqI6BcBsXDQ==" length="709809549" type="application/octet-stream"/>
+      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.19.0/AgentDesk.dmg" sparkle:edSignature="IUfsaZdGqBHEQAe9NG+wuK7Ko7sdP5XgoQXNUzYdZvbOg0QybdurfzoT7/AVWxj6MdUgTfHvafl82Tf4pRAxDQ==" length="709915171" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
