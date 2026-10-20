@@ -3,18 +3,17 @@
   <channel>
     <title>AgentDesk</title>
     <item>
-      <title>AgentDesk 0.19.1</title>
-      <pubDate>Tue, 20 Oct 2026 19:09:37 +0000</pubDate>
-      <sparkle:version>205</sparkle:version>
-      <sparkle:shortVersionString>0.19.1</sparkle:shortVersionString>
+      <title>AgentDesk 0.19.2</title>
+      <pubDate>Tue, 20 Oct 2026 19:35:30 +0000</pubDate>
+      <sparkle:version>208</sparkle:version>
+      <sparkle:shortVersionString>0.19.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
 <h3>Bug Fixes</h3>
-<li>a calmer chat page, with one slim title bar and a simpler message box</li>
-<li>chats have more room and clearer text</li>
-<li>the office fills the page, with small characters inside</li>
+<li>dictation no longer closes the app</li>
+<li>show demo projects on the website</li>
       ]]></description>
-      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.19.1/AgentDesk.dmg" sparkle:edSignature="EJ/dOurFT9mo50I2ltmHVBIBigFP7vbrFL06UsPJrGxYTCuXRq/o5jpBdYF/EkhwhYMzaTrCVdpP7QTzVptTCw==" length="709730289" type="application/octet-stream"/>
+      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.19.2/AgentDesk.dmg" sparkle:edSignature="8uuIsrHtwkQKQk6nfNE+G9iizoDnTU496g8rZQtE3K895KfX03zsitbjZT4zzWu5mcjTbhl9whHFLB1bqlxcAg==" length="709732581" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
