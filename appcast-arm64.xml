@@ -3,17 +3,17 @@
   <channel>
     <title>AgentDesk</title>
     <item>
-      <title>AgentDesk 0.14.1</title>
-      <pubDate>Tue, 13 Oct 2026 17:38:46 +0000</pubDate>
-      <sparkle:version>181</sparkle:version>
-      <sparkle:shortVersionString>0.14.1</sparkle:shortVersionString>
+      <title>AgentDesk 0.15.0</title>
+      <pubDate>Tue, 20 Oct 2026 14:37:18 +0000</pubDate>
+      <sparkle:version>183</sparkle:version>
+      <sparkle:shortVersionString>0.15.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<h3>Bug Fixes</h3>
-<li>a faster chat with its progress beside the message box</li>
-<li>chats open faster and show what the agent is doing right above the message box</li>
+<h3>Features</h3>
+<li>agents can propose a new agent, which starts once you approve it</li>
+<li>an agent can suggest starting a new agent, and it starts once you approve</li>
       ]]></description>
-      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.14.1/AgentDesk-arm64.dmg" sparkle:edSignature="SocsLA1+8uB0rRi0qNuSFJV98tYAJpb01GEjCIHAlRiRGWtvWfa+hvBa4xSwwPN8Svi7T2wejAoDqXr4fWPtAg==" length="352414357" type="application/octet-stream"/>
+      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.15.0/AgentDesk-arm64.dmg" sparkle:edSignature="laFfwqEkkBLM6sEb31dMUHikEmHCifF9V2HouXC+FcWJHZOnYHYS2/C/TYQZkOCnCLGEIs69KlyfkNFZa0cZBw==" length="353092261" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
