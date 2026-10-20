@@ -3,18 +3,16 @@
   <channel>
     <title>AgentDesk</title>
     <item>
-      <title>AgentDesk 0.17.0</title>
-      <pubDate>Tue, 20 Oct 2026 15:32:26 +0000</pubDate>
-      <sparkle:version>190</sparkle:version>
-      <sparkle:shortVersionString>0.17.0</sparkle:shortVersionString>
+      <title>AgentDesk 0.17.1</title>
+      <pubDate>Tue, 20 Oct 2026 17:14:26 +0000</pubDate>
+      <sparkle:version>192</sparkle:version>
+      <sparkle:shortVersionString>0.17.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<h3>Features</h3>
-<li>agents learn from each merged task, and you can switch it off in Settings</li>
 <h3>Bug Fixes</h3>
-<li>the sidebar sits flush with the window, and double-clicking the top of the window zooms it</li>
+<li>give the office a smaller, calmer look</li>
       ]]></description>
-      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.17.0/AgentDesk-x86_64.dmg" sparkle:edSignature="udHx41YFrunYXgyvAjw9YzLtFK1MunrSaZIMiJqXSBJYOMnZ7546HKz+l9rlQHw45m3BI4i9dbgJ+DUvrCdPCw==" length="397490013" type="application/octet-stream"/>
+      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.17.1/AgentDesk-x86_64.dmg" sparkle:edSignature="kSIY9RPLulFU7Ugg9UR/IP61lhLIL21RdN7Qk3lfQh2j+YZz5n2RYayKVzgr0ihTkAmZ/swXXhbHJDLC5yynAg==" length="397491331" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
