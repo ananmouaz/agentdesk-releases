@@ -3,17 +3,18 @@
   <channel>
     <title>AgentDesk</title>
     <item>
-      <title>AgentDesk 0.15.0</title>
-      <pubDate>Tue, 20 Oct 2026 14:42:51 +0000</pubDate>
-      <sparkle:version>183</sparkle:version>
-      <sparkle:shortVersionString>0.15.0</sparkle:shortVersionString>
+      <title>AgentDesk 0.16.0</title>
+      <pubDate>Tue, 20 Oct 2026 15:10:04 +0000</pubDate>
+      <sparkle:version>186</sparkle:version>
+      <sparkle:shortVersionString>0.16.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
 <h3>Features</h3>
-<li>agents can propose a new agent, which starts once you approve it</li>
-<li>an agent can suggest starting a new agent, and it starts once you approve</li>
+<li>sign in to Claude and Codex again from Settings</li>
+<h3>Bug Fixes</h3>
+<li>the working line says what the agent does in its own color, without the moving bar</li>
       ]]></description>
-      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.15.0/AgentDesk.dmg" sparkle:edSignature="/L7RQfKW0O0/5k8UC1m0Ugh+op0b4tBvYyMbgH4dR6FnZ1v8ZPUS5WALo1jRA0m9g7ZVffkpYbGq3lgtL1cqDg==" length="663092034" type="application/octet-stream"/>
+      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.16.0/AgentDesk.dmg" sparkle:edSignature="GtVEL2IS72BvouzsoNQ8V9nnzTW0RJ1/+M0soAJhS3KxBFsh3rmWt6itakfHR0AM+ZdX3bgz84jMJoVgERWlCA==" length="663083254" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
