@@ -3,16 +3,16 @@
   <channel>
     <title>AgentDesk</title>
     <item>
-      <title>AgentDesk 0.21.0</title>
-      <pubDate>Sat, 24 Oct 2026 15:36:13 +0000</pubDate>
-      <sparkle:version>219</sparkle:version>
-      <sparkle:shortVersionString>0.21.0</sparkle:shortVersionString>
+      <title>AgentDesk 0.22.0</title>
+      <pubDate>Sat, 24 Oct 2026 15:58:43 +0000</pubDate>
+      <sparkle:version>221</sparkle:version>
+      <sparkle:shortVersionString>0.22.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
 <h3>Features</h3>
-<li>filter agents by project, with sharper headers on iPhone</li>
+<li>stay connected and switch accounts</li>
       ]]></description>
-      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.21.0/AgentDesk-x86_64.dmg" sparkle:edSignature="3QfEfB5JQRDA8WXsY0mLUWpB+4xs7dBCTXLspEccwsrgInORcy1EDpORoMOaUb3Ki1uq0FNqJn+vxf+xw+A+BQ==" length="397983698" type="application/octet-stream"/>
+      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.22.0/AgentDesk-x86_64.dmg" sparkle:edSignature="dn/K56yN8vdrrCI+ZZKZj3kA/jDsc+eQPm2TFZvziy2UjWo/t7R1eZh1td270y4RVrdYS/mnyBOHKtsPIYbhDQ==" length="398088532" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
