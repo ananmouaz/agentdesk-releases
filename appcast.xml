@@ -3,16 +3,16 @@
   <channel>
     <title>AgentDesk</title>
     <item>
-      <title>AgentDesk 0.20.2</title>
-      <pubDate>Fri, 23 Oct 2026 08:18:00 +0000</pubDate>
-      <sparkle:version>215</sparkle:version>
-      <sparkle:shortVersionString>0.20.2</sparkle:shortVersionString>
+      <title>AgentDesk 0.20.3</title>
+      <pubDate>Sat, 24 Oct 2026 14:39:59 +0000</pubDate>
+      <sparkle:version>217</sparkle:version>
+      <sparkle:shortVersionString>0.20.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
 <h3>Bug Fixes</h3>
-<li>keep chats responsive while agents work</li>
+<li>images in a question open fitted to the window</li>
       ]]></description>
-      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.20.2/AgentDesk.dmg" sparkle:edSignature="gv+Jx3O2arMCHqk+aVrgNlu/1A9moFBT47NuxlwU1xmiRxK+ulAT2MVgCU7u1H5vMVygay3o1BAyFj92cEd3Cw==" length="709906451" type="application/octet-stream"/>
+      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.20.3/AgentDesk.dmg" sparkle:edSignature="I4diR5QRdr/lRqzb2/M7biaHAYBomXrDT8BOrrJzLazQrraNAA8ff8ybHcIDAu6F/1T3EeqY/oZN6YoeionSAQ==" length="710114423" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
