@@ -3,16 +3,16 @@
   <channel>
     <title>AgentDesk</title>
     <item>
-      <title>AgentDesk 0.23.0</title>
-      <pubDate>Sun, 25 Oct 2026 08:29:53 +0000</pubDate>
-      <sparkle:version>225</sparkle:version>
-      <sparkle:shortVersionString>0.23.0</sparkle:shortVersionString>
+      <title>AgentDesk 0.24.0</title>
+      <pubDate>Sun, 25 Oct 2026 08:49:20 +0000</pubDate>
+      <sparkle:version>227</sparkle:version>
+      <sparkle:shortVersionString>0.24.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
 <h3>Features</h3>
-<li>start a task in your project's own folder, without a separate worktree</li>
+<li>zoom text in and out with ⌘+ and ⌘−</li>
       ]]></description>
-      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.23.0/AgentDesk-x86_64.dmg" sparkle:edSignature="fbelXGu7f/kDVFyd0vEmsrv0jDI+rui4s9JAvZ442/PAXkz0XkyvbEMso7JMWHeHRoUNTQKKrYnHii0wdgn7Aw==" length="396319865" type="application/octet-stream"/>
+      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.24.0/AgentDesk-x86_64.dmg" sparkle:edSignature="7CEaVJcp8g5/xMGXjOF5MrCq7QHRk5ElacvhrtuGpFEYcl0zvYvjTCUV6EUZI4nhSy/kSBdv+SbLIXSPxEESBg==" length="396418158" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
