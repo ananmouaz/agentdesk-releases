@@ -3,16 +3,18 @@
   <channel>
     <title>AgentDesk</title>
     <item>
-      <title>AgentDesk 0.24.0</title>
-      <pubDate>Sun, 25 Oct 2026 08:48:36 +0000</pubDate>
-      <sparkle:version>227</sparkle:version>
-      <sparkle:shortVersionString>0.24.0</sparkle:shortVersionString>
+      <title>AgentDesk 0.25.0</title>
+      <pubDate>Sun, 25 Oct 2026 09:09:13 +0000</pubDate>
+      <sparkle:version>230</sparkle:version>
+      <sparkle:shortVersionString>0.25.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
 <h3>Features</h3>
-<li>zoom text in and out with ⌘+ and ⌘−</li>
+<li>merge a finished task from its chat, then tidy up its worktree and issue</li>
+<h3>Bug Fixes</h3>
+<li>make phone setup easier to follow</li>
       ]]></description>
-      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.24.0/AgentDesk-arm64.dmg" sparkle:edSignature="SPHflSRtyiLCa/wTTSSaWnNzt6FWXBtvZuQc90ZvOUb0CRujd7zLB2M1P+0c5DNMWEOTUSwon9Q6ul2u/eOrCQ==" length="373984755" type="application/octet-stream"/>
+      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.25.0/AgentDesk-arm64.dmg" sparkle:edSignature="TottvCrRI76jk5Io1Et0tzwiTncewNceudchqNszd+TL/jrfOLQZYIfXPKyjRFL8z17t29PzFaHBbdPzgLJkCQ==" length="374193734" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
