@@ -3,17 +3,16 @@
   <channel>
     <title>AgentDesk</title>
     <item>
-      <title>AgentDesk 0.26.4</title>
-      <pubDate>Mon, 26 Oct 2026 07:32:27 +0000</pubDate>
-      <sparkle:version>245</sparkle:version>
-      <sparkle:shortVersionString>0.26.4</sparkle:shortVersionString>
+      <title>AgentDesk 0.26.5</title>
+      <pubDate>Mon, 26 Oct 2026 07:59:12 +0000</pubDate>
+      <sparkle:version>247</sparkle:version>
+      <sparkle:shortVersionString>0.26.5</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
 <h3>Bug Fixes</h3>
-<li>the AgentDesk icon fills its space in the app, on the website and on the iPhone home screen</li>
-<li>the AgentDesk icon is bigger in the app, on the website and on your iPhone home screen</li>
+<li>keep Mac resource readings in sync</li>
       ]]></description>
-      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.26.4/AgentDesk-x86_64.dmg" sparkle:edSignature="9UK5a+KT0X+O2NnYx0cRz0dFQD9G5FWCBr+6xA8OSNXeAWM1RkTIiQqO3xGbSGeO4yDrj0hAS9fFLq24Zh6kAA==" length="396423858" type="application/octet-stream"/>
+      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.26.5/AgentDesk-x86_64.dmg" sparkle:edSignature="ddh7cwGLDtiSVBh/3LXFvzIBhfh+/kj8sIyHCCr1i+Edpmapy9N4cS9vQnYSVmIrv7VpCGjChRllvT/0+4jSCQ==" length="396403345" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
