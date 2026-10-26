@@ -3,16 +3,17 @@
   <channel>
     <title>AgentDesk</title>
     <item>
-      <title>AgentDesk 0.26.3</title>
-      <pubDate>Sun, 25 Oct 2026 15:57:58 +0000</pubDate>
-      <sparkle:version>243</sparkle:version>
-      <sparkle:shortVersionString>0.26.3</sparkle:shortVersionString>
+      <title>AgentDesk 0.26.4</title>
+      <pubDate>Mon, 26 Oct 2026 07:38:52 +0000</pubDate>
+      <sparkle:version>245</sparkle:version>
+      <sparkle:shortVersionString>0.26.4</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
 <h3>Bug Fixes</h3>
-<li>a task stops saying ready to merge while you ask for more</li>
+<li>the AgentDesk icon fills its space in the app, on the website and on the iPhone home screen</li>
+<li>the AgentDesk icon is bigger in the app, on the website and on your iPhone home screen</li>
       ]]></description>
-      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.26.3/AgentDesk.dmg" sparkle:edSignature="VHWi+wPS3P4kN53IJeCii9XwdHIG6oxuKsunbTPGd/bWADWvVkk4ttvBS9pP42eBuGqsbF4SBkqIzvwPWRG2Dg==" length="708798161" type="application/octet-stream"/>
+      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.26.4/AgentDesk.dmg" sparkle:edSignature="jY4Z0xpCMlbe3HDXRq+aGltlv4sz17HArin0fkk8w7VhuajIJUERIKbme1C3a4ZGziZsDXmOu6mKSO2FTTk9DQ==" length="708702062" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
