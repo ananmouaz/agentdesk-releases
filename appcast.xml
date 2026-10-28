@@ -3,16 +3,17 @@
   <channel>
     <title>AgentDesk</title>
     <item>
-      <title>AgentDesk 0.27.2</title>
-      <pubDate>Wed, 28 Oct 2026 08:32:32 +0000</pubDate>
-      <sparkle:version>253</sparkle:version>
-      <sparkle:shortVersionString>0.27.2</sparkle:shortVersionString>
+      <title>AgentDesk 0.27.3</title>
+      <pubDate>Wed, 28 Oct 2026 09:50:30 +0000</pubDate>
+      <sparkle:version>255</sparkle:version>
+      <sparkle:shortVersionString>0.27.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
 <h3>Bug Fixes</h3>
-<li>keep sidebar agents steady and readable</li>
+<li>keep tasks on track</li>
+<li>keep tasks on track through checks and restarts</li>
       ]]></description>
-      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.27.2/AgentDesk.dmg" sparkle:edSignature="BwyqZEju6yW8RLk5ar9lxbrViExzHBlZOWGdW2He39kSendktpVjACK1HXfQj3p7uPIFOM4YFntM+5Y4eUh7AA==" length="715103780" type="application/octet-stream"/>
+      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.27.3/AgentDesk.dmg" sparkle:edSignature="+uVTLPlEnh75JJYFIXX5hJYgriIivTah5yMkaELC8Ai+zFFoDcOY7u6iLuECT3LB91GRyqCC3GtfJTFE0jt/Aw==" length="715118987" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
