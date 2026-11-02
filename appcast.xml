@@ -3,16 +3,16 @@
   <channel>
     <title>AgentDesk</title>
     <item>
-      <title>AgentDesk 0.27.6</title>
-      <pubDate>Fri, 30 Oct 2026 10:41:07 +0000</pubDate>
-      <sparkle:version>261</sparkle:version>
-      <sparkle:shortVersionString>0.27.6</sparkle:shortVersionString>
+      <title>AgentDesk 0.29.0</title>
+      <pubDate>Mon, 02 Nov 2026 14:29:37 +0000</pubDate>
+      <sparkle:version>267</sparkle:version>
+      <sparkle:shortVersionString>0.29.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<h3>Bug Fixes</h3>
-<li>show recent answers and fix sidebar scrolling</li>
+<h3>Features</h3>
+<li>every task ready to merge says whether it is safe to merge without more testing</li>
       ]]></description>
-      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.27.6/AgentDesk.dmg" sparkle:edSignature="Idu68HvVRWFcizhIUDSYkLLMGhiAHCNEnOPkHKVCKHCFb2RVZYiWyV+8G88H42D7lvJRxTCYk8ZkDbaoC6IUAA==" length="715188114" type="application/octet-stream"/>
+      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.29.0/AgentDesk.dmg" sparkle:edSignature="MN5/VBLBLSaFv8oBiwSaufdHZb7h8vfQuB3RnsNfqfdA30hw7HKI1PNA0dLBjP9KZtUxpHOt/nvYf7eGS3VIAg==" length="715268607" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
