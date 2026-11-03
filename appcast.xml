@@ -3,16 +3,17 @@
   <channel>
     <title>AgentDesk</title>
     <item>
-      <title>AgentDesk 0.29.0</title>
-      <pubDate>Mon, 02 Nov 2026 14:29:37 +0000</pubDate>
-      <sparkle:version>267</sparkle:version>
-      <sparkle:shortVersionString>0.29.0</sparkle:shortVersionString>
+      <title>AgentDesk 0.29.1</title>
+      <pubDate>Tue, 03 Nov 2026 14:19:54 +0000</pubDate>
+      <sparkle:version>269</sparkle:version>
+      <sparkle:shortVersionString>0.29.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<h3>Features</h3>
-<li>every task ready to merge says whether it is safe to merge without more testing</li>
+<h3>Bug Fixes</h3>
+<li>stuck tasks can be stopped, and the merge queue no longer gets stuck</li>
+<li>stuck tasks stop, and the merge queue keeps moving</li>
       ]]></description>
-      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.29.0/AgentDesk.dmg" sparkle:edSignature="MN5/VBLBLSaFv8oBiwSaufdHZb7h8vfQuB3RnsNfqfdA30hw7HKI1PNA0dLBjP9KZtUxpHOt/nvYf7eGS3VIAg==" length="715268607" type="application/octet-stream"/>
+      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.29.1/AgentDesk.dmg" sparkle:edSignature="w8dd9xeHOoZKFgGz4cKi1GORhdQN05g91Q/8f1ychRuK8pbsfPDeK7KnnqqLC/IU20QTNU2cQI0owgYETq/zBw==" length="715447194" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
