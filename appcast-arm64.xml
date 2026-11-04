@@ -3,18 +3,16 @@
   <channel>
     <title>AgentDesk</title>
     <item>
-      <title>AgentDesk 0.30.1</title>
-      <pubDate>Wed, 04 Nov 2026 15:50:19 +0000</pubDate>
-      <sparkle:version>274</sparkle:version>
-      <sparkle:shortVersionString>0.30.1</sparkle:shortVersionString>
+      <title>AgentDesk 0.30.2</title>
+      <pubDate>Wed, 04 Nov 2026 23:03:36 +0000</pubDate>
+      <sparkle:version>276</sparkle:version>
+      <sparkle:shortVersionString>0.30.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
 <h3>Bug Fixes</h3>
-<li>leftover iOS test runs no longer fill your disk</li>
-<li>stop leftover iOS test runs that fill the disk , closes #245</li>
-<li>typing in a chat keeps up with you again</li>
+<li>replies that follow each other share one Copy and Save row</li>
       ]]></description>
-      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.30.1/AgentDesk-arm64.dmg" sparkle:edSignature="Jkv+7959BJ+PoujL4vM1Xv/8P6VZr6gh2c51VmGAOdWEPMjXzb+NJJlAtqYmSI3NIBKjI5Q5gFJMv/aNWWltDQ==" length="377861720" type="application/octet-stream"/>
+      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.30.2/AgentDesk-arm64.dmg" sparkle:edSignature="cmE6f8u1FD2DTRqh0SUZ8xm4U3iSQA4fTkVZtolAh8lYumlx2nTIVKRSg6akFsmeZ9YDhwaIuE4F353zocRdAQ==" length="378043838" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
