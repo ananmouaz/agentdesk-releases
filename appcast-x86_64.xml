@@ -3,16 +3,16 @@
   <channel>
     <title>AgentDesk</title>
     <item>
-      <title>AgentDesk 0.30.2</title>
-      <pubDate>Wed, 04 Nov 2026 23:04:01 +0000</pubDate>
-      <sparkle:version>276</sparkle:version>
-      <sparkle:shortVersionString>0.30.2</sparkle:shortVersionString>
+      <title>AgentDesk 0.31.1</title>
+      <pubDate>Thu, 05 Nov 2026 09:21:35 +0000</pubDate>
+      <sparkle:version>280</sparkle:version>
+      <sparkle:shortVersionString>0.31.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
 <h3>Bug Fixes</h3>
-<li>replies that follow each other share one Copy and Save row</li>
+<li>chats open faster and finished agents stop holding memory</li>
       ]]></description>
-      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.30.2/AgentDesk-x86_64.dmg" sparkle:edSignature="QlbFW4FOOGinI4YULUuAC/Lix8ZRywQfcL2QadnooARoVMoSx+PN2pF2bx/v5P+S7/kf79jCK/22D3Wd2jRdDg==" length="400118846" type="application/octet-stream"/>
+      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.31.1/AgentDesk-x86_64.dmg" sparkle:edSignature="jTnv4f1CMtHxU73lbzAar37LQW+W1xibjcDRShr6WYojuX/sOu0vqwJ7pb1H01fffBNQUHKDXmRjl5KTyYgVAg==" length="434960269" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
