@@ -3,17 +3,16 @@
   <channel>
     <title>AgentDesk</title>
     <item>
-      <title>AgentDesk 0.31.5</title>
-      <pubDate>Thu, 05 Nov 2026 12:18:48 +0000</pubDate>
-      <sparkle:version>288</sparkle:version>
-      <sparkle:shortVersionString>0.31.5</sparkle:shortVersionString>
+      <title>AgentDesk 0.31.6</title>
+      <pubDate>Thu, 05 Nov 2026 12:41:20 +0000</pubDate>
+      <sparkle:version>290</sparkle:version>
+      <sparkle:shortVersionString>0.31.6</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
 <h3>Performance</h3>
-<li>bound change preview memory</li>
-<li>use less memory when previewing changes</li>
+<li>use less power for previews and the office</li>
       ]]></description>
-      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.31.5/AgentDesk-x86_64.dmg" sparkle:edSignature="hQNfkL5jX7nhc538/nLoRjkgv/TOpl0pXluiRf1SpObHhn4y8vvurmuw4ZB7ccXiiotR84rn43BfbzqE21q2Dg==" length="435045417" type="application/octet-stream"/>
+      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.31.6/AgentDesk-x86_64.dmg" sparkle:edSignature="eQhc3a8QofYCWc34vG6IvwwNK8GQX6F2lIuSNBXMTVPIrleIgYfat7l3x+psLpivtn0hiFv/Vq4RhMM1gFgJAg==" length="435012760" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
