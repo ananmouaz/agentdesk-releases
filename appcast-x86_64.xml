@@ -3,16 +3,16 @@
   <channel>
     <title>AgentDesk</title>
     <item>
-      <title>AgentDesk 0.31.3</title>
-      <pubDate>Thu, 05 Nov 2026 11:32:16 +0000</pubDate>
-      <sparkle:version>284</sparkle:version>
-      <sparkle:shortVersionString>0.31.3</sparkle:shortVersionString>
+      <title>AgentDesk 0.31.4</title>
+      <pubDate>Thu, 05 Nov 2026 11:54:59 +0000</pubDate>
+      <sparkle:version>286</sparkle:version>
+      <sparkle:shortVersionString>0.31.4</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<h3>Performance</h3>
-<li>use less CPU when showing chat replies</li>
+<h3>Bug Fixes</h3>
+<li>type and scroll faster in chats</li>
       ]]></description>
-      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.31.3/AgentDesk-x86_64.dmg" sparkle:edSignature="FMuB2HhwgVQ6KgZkCGvXF8Utcj+ZS4qajjyj152va3VeSSPzJ5Nv2gzS8u7qCxZX/JbCRCuadDdEtt/FtObgCA==" length="434999948" type="application/octet-stream"/>
+      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.31.4/AgentDesk-x86_64.dmg" sparkle:edSignature="kXyPYmPHCnfeOMQquuWvVzbh8hvAia4C+h7mj5AHgTh5U4/WSN1DJRdEYilhmF86Qpjnh8ZQeAi/ZenzNmKhDA==" length="435036534" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
