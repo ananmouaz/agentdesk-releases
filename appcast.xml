@@ -3,16 +3,17 @@
   <channel>
     <title>AgentDesk</title>
     <item>
-      <title>AgentDesk 0.31.1</title>
-      <pubDate>Thu, 05 Nov 2026 09:28:26 +0000</pubDate>
-      <sparkle:version>280</sparkle:version>
-      <sparkle:shortVersionString>0.31.1</sparkle:shortVersionString>
+      <title>AgentDesk 0.31.2</title>
+      <pubDate>Thu, 05 Nov 2026 11:13:16 +0000</pubDate>
+      <sparkle:version>282</sparkle:version>
+      <sparkle:shortVersionString>0.31.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
 <h3>Bug Fixes</h3>
-<li>chats open faster and finished agents stop holding memory</li>
+<li>chats use less memory</li>
+<li>chats use less memory as you switch between them</li>
       ]]></description>
-      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.31.1/AgentDesk.dmg" sparkle:edSignature="MCWEX0qqdgSqGyccF7NFbwUUEgqDqunDao0ACqTB3SuyuXI+adIMq1U4eYAT23V4F85SvEPdYMOVLI6Nj/YkBQ==" length="782290340" type="application/octet-stream"/>
+      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.31.2/AgentDesk.dmg" sparkle:edSignature="7qMMepxHZm3Itded8wDNRKnVfeEMdugox+bZBYNAGVksKv7HHTaBULeaCgRjXAxNVZfMePWJi9ymHe1XJ+2kCw==" length="782405900" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
