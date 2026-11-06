@@ -3,16 +3,16 @@
   <channel>
     <title>AgentDesk</title>
     <item>
-      <title>AgentDesk 0.31.8</title>
-      <pubDate>Fri, 06 Nov 2026 10:02:36 +0000</pubDate>
-      <sparkle:version>294</sparkle:version>
-      <sparkle:shortVersionString>0.31.8</sparkle:shortVersionString>
+      <title>AgentDesk 0.31.9</title>
+      <pubDate>Fri, 06 Nov 2026 11:13:28 +0000</pubDate>
+      <sparkle:version>296</sparkle:version>
+      <sparkle:shortVersionString>0.31.9</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
 <h3>Performance</h3>
-<li>idle agents free their memory when your Mac runs low</li>
+<li>each agent uses much less memory until it needs its tools</li>
       ]]></description>
-      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.31.8/AgentDesk.dmg" sparkle:edSignature="CUqN+LyHCGsNSgqyEG19gD5CvbVr8+mAvWE5HNXUA5OeqSuyy2cnPwsYyVh+vPcV4r1MU9gTZjPbs6g5djlCAw==" length="782421629" type="application/octet-stream"/>
+      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.31.9/AgentDesk.dmg" sparkle:edSignature="Wgyr3auKmwxoM+q3Tzja4XVnrAqWYNf0ysVhZF4GnwvsUef7jAdxcxgBcMQ4SShY4ZDHwJCfzVk4ocFtW0/uAQ==" length="782466717" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
