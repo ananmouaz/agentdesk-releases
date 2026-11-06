@@ -3,16 +3,17 @@
   <channel>
     <title>AgentDesk</title>
     <item>
-      <title>AgentDesk 0.31.6</title>
-      <pubDate>Thu, 05 Nov 2026 12:41:20 +0000</pubDate>
-      <sparkle:version>290</sparkle:version>
-      <sparkle:shortVersionString>0.31.6</sparkle:shortVersionString>
+      <title>AgentDesk 0.31.7</title>
+      <pubDate>Fri, 06 Nov 2026 09:03:26 +0000</pubDate>
+      <sparkle:version>292</sparkle:version>
+      <sparkle:shortVersionString>0.31.7</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<h3>Performance</h3>
-<li>use less power for previews and the office</li>
+<h3>Bug Fixes</h3>
+<li>the chat says "Finishing" instead of "Thinking" once the answer is written</li>
+<li>the chat says "Finishing" instead of "Thinking" while end-of-turn checks run</li>
       ]]></description>
-      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.31.6/AgentDesk-x86_64.dmg" sparkle:edSignature="eQhc3a8QofYCWc34vG6IvwwNK8GQX6F2lIuSNBXMTVPIrleIgYfat7l3x+psLpivtn0hiFv/Vq4RhMM1gFgJAg==" length="435012760" type="application/octet-stream"/>
+      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.31.7/AgentDesk-x86_64.dmg" sparkle:edSignature="HFbo+EYJM1Qe5hEVGwSyOtk0jYKIqGSFr0m4RTesH2r+y0FT3H6cCw/suo3F09MGs76GEHKbNtVxFV1L0ZkZAQ==" length="435006717" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
