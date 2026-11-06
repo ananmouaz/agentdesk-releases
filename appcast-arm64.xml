@@ -3,17 +3,16 @@
   <channel>
     <title>AgentDesk</title>
     <item>
-      <title>AgentDesk 0.31.7</title>
-      <pubDate>Fri, 06 Nov 2026 09:02:31 +0000</pubDate>
-      <sparkle:version>292</sparkle:version>
-      <sparkle:shortVersionString>0.31.7</sparkle:shortVersionString>
+      <title>AgentDesk 0.31.8</title>
+      <pubDate>Fri, 06 Nov 2026 09:55:50 +0000</pubDate>
+      <sparkle:version>294</sparkle:version>
+      <sparkle:shortVersionString>0.31.8</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<h3>Bug Fixes</h3>
-<li>the chat says "Finishing" instead of "Thinking" once the answer is written</li>
-<li>the chat says "Finishing" instead of "Thinking" while end-of-turn checks run</li>
+<h3>Performance</h3>
+<li>idle agents free their memory when your Mac runs low</li>
       ]]></description>
-      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.31.7/AgentDesk-arm64.dmg" sparkle:edSignature="Zlbmaiu3/kCGoy4Uu01c4ZeYIieWLrjydtGZQ+O3yu2/V7oYXpIsR7ey12mPCwxtnYQY4VF0Ar5dpmcX4KevDg==" length="409865775" type="application/octet-stream"/>
+      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.31.8/AgentDesk-arm64.dmg" sparkle:edSignature="v2hdAqRxHA/DO29lcOBVX2svdTUCloSedtmPSiCagAP2ipzKuu29x0jiraeCnlUSUXv7sQJ2cI0JrlQz+UeyAQ==" length="409877827" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
