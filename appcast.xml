@@ -3,16 +3,16 @@
   <channel>
     <title>AgentDesk</title>
     <item>
-      <title>AgentDesk 0.34.0</title>
-      <pubDate>Sat, 07 Nov 2026 14:41:01 +0000</pubDate>
-      <sparkle:version>312</sparkle:version>
-      <sparkle:shortVersionString>0.34.0</sparkle:shortVersionString>
+      <title>AgentDesk 0.34.1</title>
+      <pubDate>Sat, 07 Nov 2026 21:46:19 +0000</pubDate>
+      <sparkle:version>314</sparkle:version>
+      <sparkle:shortVersionString>0.34.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<h3>Features</h3>
-<li>use your Mac workspace on iPad</li>
+<h3>Bug Fixes</h3>
+<li>pages on iPad and phone now look like the Mac app</li>
       ]]></description>
-      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.34.0/AgentDesk.dmg" sparkle:edSignature="TGmaVoaGMsb1kEoGdzN5wtSgMXaSxDzG+VRlMwqyvyjxm6GSzePVNzspANK2EqhXeE0kugcfN8ixvm4CMmqnDA==" length="786154017" type="application/octet-stream"/>
+      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.34.1/AgentDesk.dmg" sparkle:edSignature="m8NV5qIVYS+yrNsiL/tTbgB9dAk9zGSRI+K3joozncgIh97Mx6hnLd/YF2Rdh8mBM8MaL1XJnTUTjNdW4YxpCg==" length="786164449" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
