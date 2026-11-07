@@ -3,18 +3,16 @@
   <channel>
     <title>AgentDesk</title>
     <item>
-      <title>AgentDesk 0.32.0</title>
-      <pubDate>Fri, 06 Nov 2026 11:37:49 +0000</pubDate>
-      <sparkle:version>299</sparkle:version>
-      <sparkle:shortVersionString>0.32.0</sparkle:shortVersionString>
+      <title>AgentDesk 0.32.1</title>
+      <pubDate>Sat, 07 Nov 2026 11:03:54 +0000</pubDate>
+      <sparkle:version>302</sparkle:version>
+      <sparkle:shortVersionString>0.32.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<h3>Features</h3>
-<li>see how much memory each agent uses</li>
-<li>sub-agents show as little characters that look like their parent</li>
-<li>sub-agents show as small orbs that look like their parent</li>
+<h3>Bug Fixes</h3>
+<li>pick any reasoning level in a chat, not only the current one</li>
       ]]></description>
-      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.32.0/AgentDesk.dmg" sparkle:edSignature="tkWzN/O6ip31KIZUV1pBZ5i6o6IW777X9iqi1LSP46tAI6m9tTzm7HvCDQsyrYWvjLWPcBhQwW4VYQPxOjrpAw==" length="782672057" type="application/octet-stream"/>
+      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.32.1/AgentDesk.dmg" sparkle:edSignature="uQEtc5705U9T9zs5AbYd7ulgVPPv6r57SxVxCTBDzyY4Ajz+pxPHIAKvKve8Vgc4HlUPDsXCPDyqXgbgE3FSAg==" length="782670393" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
