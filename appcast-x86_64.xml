@@ -3,16 +3,16 @@
   <channel>
     <title>AgentDesk</title>
     <item>
-      <title>AgentDesk 0.32.1</title>
-      <pubDate>Sat, 07 Nov 2026 10:58:48 +0000</pubDate>
-      <sparkle:version>302</sparkle:version>
-      <sparkle:shortVersionString>0.32.1</sparkle:shortVersionString>
+      <title>AgentDesk 0.32.2</title>
+      <pubDate>Sat, 07 Nov 2026 12:42:55 +0000</pubDate>
+      <sparkle:version>304</sparkle:version>
+      <sparkle:shortVersionString>0.32.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
 <h3>Bug Fixes</h3>
-<li>pick any reasoning level in a chat, not only the current one</li>
+<li>open the options and pick reasoning when you start an agent</li>
       ]]></description>
-      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.32.1/AgentDesk-x86_64.dmg" sparkle:edSignature="kX8HIlzXfQGiS6hGAR9J8POVQ4gDDNF7Rog8YK3/7FUWRf6GTzsK8HKnkE1kdwXq2+RNeP4J+gaZ93QBAuhDCg==" length="435051132" type="application/octet-stream"/>
+      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.32.2/AgentDesk-x86_64.dmg" sparkle:edSignature="16gWSzT/gn50ouHCk5dbl4g2SPHqIkQBn7UqsotjSskWtQLWRPIIJBcYVXnQrC/w0IyWYyDcS1VbOYdAnycAAw==" length="435054370" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
