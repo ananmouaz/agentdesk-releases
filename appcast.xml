@@ -3,16 +3,16 @@
   <channel>
     <title>AgentDesk</title>
     <item>
-      <title>AgentDesk 0.35.0</title>
-      <pubDate>Mon, 09 Nov 2026 14:52:31 +0000</pubDate>
-      <sparkle:version>316</sparkle:version>
-      <sparkle:shortVersionString>0.35.0</sparkle:shortVersionString>
+      <title>AgentDesk 0.35.1</title>
+      <pubDate>Tue, 10 Nov 2026 14:27:16 +0000</pubDate>
+      <sparkle:version>318</sparkle:version>
+      <sparkle:shortVersionString>0.35.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<h3>Features</h3>
-<li>draw sequence diagrams in chats</li>
+<h3>Bug Fixes</h3>
+<li>sub-agents are little Claude and GPT mascots, each with its own shape</li>
       ]]></description>
-      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.35.0/AgentDesk.dmg" sparkle:edSignature="qfK/f74XD132f4Qb8GbIGwOatOaUOWaf3Hyg1j5YwSZ8goEguVsBp/VlPaoD4+Shuv8ZGvzpbE6wrb3sDHUdDw==" length="786217118" type="application/octet-stream"/>
+      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.35.1/AgentDesk.dmg" sparkle:edSignature="P+Ri/r5ulTQNMK1jK7uGCT88/nMqBxoHS0IN15sbC+Naqwo8brxwaBA7G5gFt388psUzqyxssMC7yV4rqmMIAg==" length="786312699" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
