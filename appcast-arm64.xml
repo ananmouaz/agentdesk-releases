@@ -3,16 +3,18 @@
   <channel>
     <title>AgentDesk</title>
     <item>
-      <title>AgentDesk 0.39.0</title>
-      <pubDate>Sun, 22 Nov 2026 20:45:10 +0000</pubDate>
-      <sparkle:version>329</sparkle:version>
-      <sparkle:shortVersionString>0.39.0</sparkle:shortVersionString>
+      <title>AgentDesk 0.40.0</title>
+      <pubDate>Sun, 22 Nov 2026 21:10:46 +0000</pubDate>
+      <sparkle:version>332</sparkle:version>
+      <sparkle:shortVersionString>0.40.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
 <h3>Features</h3>
-<li>right-click menus on chats, projects and files</li>
+<li>ask a side question without interrupting your agent</li>
+<h3>Bug Fixes</h3>
+<li>your agents' tool keys stay hidden from other apps on your Mac</li>
       ]]></description>
-      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.39.0/AgentDesk-arm64.dmg" sparkle:edSignature="ghj0hh/0LPOz3TAKg+b/mkmnRc/jgf28Lw+pDQYsySy0yw6/hW+eBq3vbq0bxHef3Ew3npaOrNHTa4TFLnI/AQ==" length="415990027" type="application/octet-stream"/>
+      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.40.0/AgentDesk-arm64.dmg" sparkle:edSignature="m0cQPMK3UgiM5DruGCuacQAHKpnFPxsIKSHWD7OvR2aGgHo6qazSOv3xhhdJpJF5fAr03BqA3mXMxmayOs4EBg==" length="442425798" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
