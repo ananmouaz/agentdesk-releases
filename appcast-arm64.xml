@@ -3,18 +3,17 @@
   <channel>
     <title>AgentDesk</title>
     <item>
-      <title>AgentDesk 0.41.1</title>
-      <pubDate>Thu, 26 Nov 2026 09:13:41 +0000</pubDate>
-      <sparkle:version>341</sparkle:version>
-      <sparkle:shortVersionString>0.41.1</sparkle:shortVersionString>
+      <title>AgentDesk 0.42.0</title>
+      <pubDate>Thu, 26 Nov 2026 09:56:59 +0000</pubDate>
+      <sparkle:version>343</sparkle:version>
+      <sparkle:shortVersionString>0.42.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<h3>Bug Fixes</h3>
-<li>every page shares one clean header, and the sidebar is calmer</li>
-<li>the app stays responsive with many chats, and keeps a record when it freezes</li>
-<li>the app stays responsive with many chats, and records freezes</li>
+<h3>Features</h3>
+<li>agents ask for secrets in a private card</li>
+<li>agents ask for passwords and keys in a private card</li>
       ]]></description>
-      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.41.1/AgentDesk-arm64.dmg" sparkle:edSignature="N57Esdj9W3plOzVqoM/f6IRON6QBopAm2wzVNto6JvNm6hhZxNc4cXiHx6D5bcgCYIWfnT567UAd1Z0RyZ48BA==" length="442652768" type="application/octet-stream"/>
+      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.42.0/AgentDesk-arm64.dmg" sparkle:edSignature="iulZr4fR3rI8NzXChYWZ6VQGhyMO2DBwsW0VmvxDoElSwzI96H8oiOcaH5as//QkII5DOaSwdTa1loEyIWdtDw==" length="442693895" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
