@@ -3,17 +3,18 @@
   <channel>
     <title>AgentDesk</title>
     <item>
-      <title>AgentDesk 0.40.2</title>
-      <pubDate>Mon, 23 Nov 2026 12:46:11 +0000</pubDate>
-      <sparkle:version>336</sparkle:version>
-      <sparkle:shortVersionString>0.40.2</sparkle:shortVersionString>
+      <title>AgentDesk 0.41.1</title>
+      <pubDate>Thu, 26 Nov 2026 09:14:28 +0000</pubDate>
+      <sparkle:version>341</sparkle:version>
+      <sparkle:shortVersionString>0.41.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
 <h3>Bug Fixes</h3>
-<li>picking a next step after an answer sends it right away</li>
-<li>your answer to the agent's next steps goes at once</li>
+<li>every page shares one clean header, and the sidebar is calmer</li>
+<li>the app stays responsive with many chats, and keeps a record when it freezes</li>
+<li>the app stays responsive with many chats, and records freezes</li>
       ]]></description>
-      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.40.2/AgentDesk-x86_64.dmg" sparkle:edSignature="5dfGvkYVqE4usj0TY3GlMJqyM54MJ5WE/mZOYL2RCSXutsgEQadsdVjIU4msO8q5QFzaLBKtuPn5OeBfaHYIDw==" length="469324795" type="application/octet-stream"/>
+      <enclosure url="https://github.com/ananmouaz/agentdesk-releases/releases/download/v0.41.1/AgentDesk-x86_64.dmg" sparkle:edSignature="XnZmTbfK9I7S+ayhsesEUNy5f9j7+gzCj9wjOse0hAiNmzoMd/t/ofRW4Ap2nE8qfl6pOplHLpYVsbtqFEiTAA==" length="469568179" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
